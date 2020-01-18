@@ -1,7 +1,7 @@
 theme: minima
 markdown: gfm
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
 titles_from_headings:
     strip_title: true
     collections: true
