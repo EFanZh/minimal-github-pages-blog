@@ -1,1 +1,3 @@
 theme: minima
+titles_from_headings:
+    collections: true
